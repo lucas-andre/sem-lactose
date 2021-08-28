@@ -502,7 +502,7 @@ button:not(:disabled),
   justify-content: space-between;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  z-index: 9999;
+  z-index: 1;
 }
 
 .navbar > .container-fluid {
